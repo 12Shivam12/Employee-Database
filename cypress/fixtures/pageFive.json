@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "id": 41,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Cordie Seatter",
+      "gender": "male",
+      "department": "finance",
+      "salary": 63000
+    },
+    {
+      "id": 42,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Bartholomew Geard",
+      "gender": "male",
+      "department": "marketing",
+      "salary": 66000
+    },
+    {
+      "id": 43,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Sidnee Goodright",
+      "gender": "male",
+      "department": "engineering",
+      "salary": 36000
+    },
+    {
+      "id": 44,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Bondon Woodroff",
+      "gender": "male",
+      "department": "hr",
+      "salary": 57000
+    },
+    {
+      "id": 45,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Rolfe Gerrietz",
+      "gender": "male",
+      "department": "operations",
+      "salary": 66000
+    },
+    {
+      "id": 46,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Iseabal Date",
+      "gender": "female",
+      "department": "operations",
+      "salary": 63000
+    },
+    {
+      "id": 47,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Aylmer Burstowe",
+      "gender": "female",
+      "department": "marketing",
+      "salary": 54000
+    },
+    {
+      "id": 48,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Alic Toms",
+      "gender": "male",
+      "department": "marketing",
+      "salary": 70000
+    },
+    {
+      "id": 49,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Jerrylee Asee",
+      "gender": "female",
+      "department": "operations",
+      "salary": 66000
+    },
+    {
+      "id": 50,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Ham Probin",
+      "gender": "female",
+      "department": "operations",
+      "salary": 70000
+    }
+  ],
+  "totalPages": 10
+}

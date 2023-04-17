@@ -1,0 +1,138 @@
+{
+   
+    
+       
+       
+       
+       
+       
+       
+    
+    
+       
+       
+       
+       
+       
+       
+    
+    
+       
+       
+       
+       
+       
+       
+    
+    
+       
+       
+       
+       
+       
+       
+    
+    
+       
+       
+       
+       
+       
+       
+    
+    
+       
+       
+       
+       
+       
+       
+    
+    
+       
+       
+       
+       
+       
+       
+    
+    
+       
+       
+       
+       
+       
+       
+    
+  
+   
+
+
+  "data": [
+    {
+      "id": 33,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Gregorio Heaford",
+      "gender": "others",
+      "department": "hr",
+      "salary": 63000
+    },
+    {
+      "id": 36,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Wyatt Maly",
+      "gender": "female",
+      "department": "hr",
+      "salary": 42000
+    },
+    {
+      "id": 44,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Bondon Woodroff",
+      "gender": "male",
+      "department": "hr",
+      "salary": 57000
+    },
+    {
+      "id": 56,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Elli Godlip",
+      "gender": "female",
+      "department": "hr",
+      "salary": 27000
+    },
+    {
+      "id": 65,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Courtenay Risborough",
+      "gender": "female",
+      "department": "hr",
+      "salary": 35000
+    },
+    {
+      "id": 70,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Dyann Engeham",
+      "gender": "male",
+      "department": "hr",
+      "salary": 70000
+    },
+    {
+      "id": 82,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Stacy McCrory",
+      "gender": "male",
+      "department": "hr",
+      "salary": 45000
+    },
+    {
+      "id": 96,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Claudia Vasyukhin",
+      "gender": "female",
+      "department": "hr",
+      "salary": 25000
+    }
+  ],
+  "totalPages": 1
+}

@@ -1,0 +1,99 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+}
+
+.addstudent {
+  width: 450px;
+  padding: 8% 0 0;
+  margin: auto;
+}
+
+.addstudent {
+  position: relative;
+  z-index: 1;
+  background: #ffffff;
+  margin: 50px auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.addstudent input,
+.addstudent select {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 1.5rem;
+  padding: 1rem;
+  box-sizing: border-box;
+  font-size: 0.8rem;
+  border-radius: 0.25rem;
+}
+.controls {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+.controls > * {
+  margin: 1rem;
+}
+.controls select {
+  margin: 1rem;
+}
+
+select {
+  outline: 0;
+  background: #f2f2f2;
+  border: 0;
+  margin: 0 0 1.5rem;
+  padding: 1rem;
+  box-sizing: border-box;
+  font-size: 0.8rem;
+  border-radius: 0.25rem;
+}
+
+button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #4caf50;
+  /* width: 100%; */
+  border: 0;
+  padding: 15px;
+  color: #ffffff;
+  font-size: 0.8rem;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  margin: 0.25rem;
+}
+.table_container {
+  height: 36rem;
+}
+table {
+  margin: auto;
+}
+
+tr:nth-child(odd) {
+  background-color: #e6d4d4;
+  border: none;
+}
+th {
+  color: white;
+  background-color: #4caf50;
+  border: none;
+  border-radius: 0;
+  padding: 0.25rem 0.5rem;
+}
+th,
+td {
+  padding: 1rem;
+}
+.error {
+  color: red;
+}

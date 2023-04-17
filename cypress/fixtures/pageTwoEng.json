@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "id": 38,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Monty Meers",
+      "gender": "female",
+      "department": "engineering",
+      "salary": 35000
+    },
+    {
+      "id": 43,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Sidnee Goodright",
+      "gender": "male",
+      "department": "engineering",
+      "salary": 36000
+    },
+    {
+      "id": 80,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Nil Fremantle",
+      "gender": "male",
+      "department": "engineering",
+      "salary": 60000
+    },
+    {
+      "id": 81,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Belinda Bortol",
+      "gender": "others",
+      "department": "engineering",
+      "salary": 60000
+    },
+    {
+      "id": 83,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Adelbert Witten",
+      "gender": "female",
+      "department": "engineering",
+      "salary": 54000
+    },
+    {
+      "id": 85,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Winifred McNalley",
+      "gender": "male",
+      "department": "engineering",
+      "salary": 60000
+    },
+    {
+      "id": 87,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Eunice Emanson",
+      "gender": "female",
+      "department": "engineering",
+      "salary": 60000
+    },
+    {
+      "id": 89,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Nadiya Rohfsen",
+      "gender": "male",
+      "department": "engineering",
+      "salary": 40000
+    },
+    {
+      "id": 92,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Rina Nasey",
+      "gender": "female",
+      "department": "engineering",
+      "salary": 27000
+    },
+    {
+      "id": 94,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Shannen Erwin",
+      "gender": "male",
+      "department": "engineering",
+      "salary": 27000
+    }
+  ],
+  "totalPages": 3
+}

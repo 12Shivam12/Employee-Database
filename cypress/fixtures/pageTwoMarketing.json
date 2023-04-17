@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": 69,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Dory Thrustle",
+      "gender": "male",
+      "department": "marketing",
+      "salary": 42000
+    },
+    {
+      "id": 73,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Joletta Dyerson",
+      "gender": "male",
+      "department": "marketing",
+      "salary": 50000
+    },
+    {
+      "id": 77,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Natalina MacCroary",
+      "gender": "male",
+      "department": "marketing",
+      "salary": 50000
+    },
+    {
+      "id": 90,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Shannon Cardew",
+      "gender": "male",
+      "department": "marketing",
+      "salary": 27000
+    },
+    {
+      "id": 95,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Nariko Cerith",
+      "gender": "male",
+      "department": "marketing",
+      "salary": 51000
+    },
+    {
+      "id": 97,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Judith Redrup",
+      "gender": "others",
+      "department": "marketing",
+      "salary": 35000
+    }
+  ],
+  "totalPages": 2
+}

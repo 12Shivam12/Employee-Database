@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Brynn Wildblood",
+      "gender": "female",
+      "department": "finance",
+      "salary": 27000
+    },
+    {
+      "id": 10,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Cookie Gimber",
+      "gender": "male",
+      "department": "finance",
+      "salary": 25000
+    },
+    {
+      "id": 26,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Eldredge Andryszczak",
+      "gender": "male",
+      "department": "finance",
+      "salary": 42000
+    },
+    {
+      "id": 41,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Cordie Seatter",
+      "gender": "male",
+      "department": "finance",
+      "salary": 63000
+    },
+    {
+      "id": 54,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Georgianna Barsby",
+      "gender": "female",
+      "department": "finance",
+      "salary": 54000
+    },
+    {
+      "id": 57,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Pall Gilford",
+      "gender": "female",
+      "department": "finance",
+      "salary": 50000
+    },
+    {
+      "id": 59,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Arel Borless",
+      "gender": "female",
+      "department": "finance",
+      "salary": 63000
+    },
+    {
+      "id": 67,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Deerdre Allridge",
+      "gender": "female",
+      "department": "finance",
+      "salary": 35000
+    },
+    {
+      "id": 71,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Annabell Jeyes",
+      "gender": "others",
+      "department": "finance",
+      "salary": 36000
+    },
+    {
+      "id": 76,
+      "image": "https://i.imgur.com/9xEcfJj.jpg",
+      "name": "Flin Redhead",
+      "gender": "others",
+      "department": "finance",
+      "salary": 42000
+    }
+  ],
+  "totalPages": 1
+}
